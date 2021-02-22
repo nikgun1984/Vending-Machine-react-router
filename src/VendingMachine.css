@@ -1,0 +1,10 @@
+.VendingMachine{
+	margin-top: 20px;
+}
+
+.VendingMachine-link{
+	color:white;
+	text-shadow: 3px 3px #0e0808;
+	font-size: 3rem;
+
+}
